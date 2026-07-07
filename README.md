@@ -17,15 +17,15 @@
  
 ### 🧩 Featured Projects
  
-**🎓 Agentic Learning Coach** — AI-powered personalized learning system
+**🎓 [Agentic Learning Coach](https://github.com/ahmedafli/learning-agent)** — AI-powered personalized learning system.
 Multi-agent LangGraph pipeline (topic extraction → search strategy → curriculum generation → adaptive quizzes), FastAPI backend, PostgreSQL persistence, Next.js frontend with real-time progress tracking.
 `LangGraph` `LangChain` `FastAPI` `PostgreSQL` `Next.js` `TypeScript`
  
-**🛋️ Interior Design AI SaaS** — moodboard automation for interior designers
+**🛋️ [Interior Design AI SaaS](https://github.com/ahmedafli/landingmoodboard)** — Moodboard automation for interior designers.
 AI furniture inpainting, automated pricing via Google Sheets, Stripe billing. Cut moodboard creation time from 3-4 hours to under 30 minutes. First paying client acquired.
 `Next.js` `Supabase` `OpenAI API` `Stripe`
  
-**📅 WhatsApp AI Booking Bot** — end-to-end trip booking automation
+**📅 [WhatsApp AI Booking Bot](https://www.youtube.com/shorts/zApo3_zonGY)** — End-to-end trip booking automation.
 AI-driven conversation flow, Telegram approval system, automated Calendar/email confirmations. Cut manual coordination time by 70%.
 `n8n` `OpenAI API` `Google Calendar API`
  
