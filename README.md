@@ -59,7 +59,7 @@ AI-driven conversation flow, Telegram approval system, automated Calendar/email 
  
 ### 📫 Reach Me
  
-[![Website](https://img.shields.io/badge/doubleadigitalfuture.com-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://doubleadigitalfuture.com)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:double.a.digitalfuture@gmail.com) 
-double.a.digitalfuture@gmail.com
+🌐 **Portfolio:** <a href="https://doubleadigitalfuture.com">https://doubleadigitalfuture.com</a>
+📧 **Email:** <a href="mailto:double.a.digitalfuture@gmail.com">double.a.digitalfuture@gmail.com</a>
+<br><br>
 <p align="center"><i>Always building. Always shipping.</i></p>
