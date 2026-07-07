@@ -60,5 +60,6 @@ AI-driven conversation flow, Telegram approval system, automated Calendar/email 
 ### 📫 Reach Me
  
 [![Website](https://img.shields.io/badge/doubleadigitalfuture.com-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://doubleadigitalfuture.com)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ahmedafli739@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:double.a.digitalfuture@gmail.com) 
+double.a.digitalfuture@gmail.com
 <p align="center"><i>Always building. Always shipping.</i></p>
